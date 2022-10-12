@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+<meta charset="uft-8">
+<style>
+	body{
+background-color: aqua;
+	}
+
+	</style>
+	<div id="container">
+<title>Portfolio</title>
+</head>
+<body>
+
+		<header>
+<h1>My Portfolio</h1>
+            <img src="./certificates/poke.jpeg" alt="me"
+width="500"
+height="500"
+right="20">
+			<h1>Hi! I'm Mohammed Saif</h1>
+			<h3>An aspiring robotics engineer.</h3>
+			</header>
+			<section>
+				<h2>Phone: +91 7075103564</h2>
+                <h3>Email: goofyah@snail.com</h3>
+
+			</section>
+			<footer>
+				<small>&copy; Styles Conference</small>
+			</footer>
+
+	</div> 
+
+</body>
+</html>
